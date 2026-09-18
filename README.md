@@ -4,7 +4,7 @@ An independent macOS controller for the Universal Audio OX Amp Top Box. Every OX
 
 This repository holds the downloads and release notes. The source is not public.
 
-**[Download the latest release](https://github.com/Symbia-Labs/yoke-releases/releases/latest)**
+**[Download Yoke for Mac](https://github.com/Symbia-Labs/yoke-releases/releases)** — the newest build is at the top; open the DMG and drag Yoke to Applications.
 
 ## Requirements
 
