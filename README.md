@@ -21,7 +21,7 @@ Beta builds are not yet signed or notarized, so macOS refuses the first launch.
 
 ## Beta terms
 
-Beta builds run as the full Studio tier and stop working on the date shown on the venue page's License panel, when a newer build will be out. Please don't pass the DMG on; point people at this page or at help@symbia-labs.com.
+Beta builds run as the full Studio tier and stop working on the date shown under the gear at the top right → **License**, when a newer build will be out. Please don't pass the DMG on; point people at this page or at help@symbia-labs.com.
 
 ## Reporting a problem
 
