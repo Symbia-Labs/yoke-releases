@@ -11,13 +11,14 @@ This repository holds the downloads and release notes. Yoke's source is not publ
 - macOS 13 or later, Apple Silicon (Intel builds later).
 - An OX Amp Top Box on firmware 1.2.0, on the same network as the Mac or reachable by address.
 
-## Installing a beta build
+## Installing
 
-Beta builds are not yet signed or notarized, so macOS refuses the first launch.
+Yoke is signed with our Developer ID and notarized by Apple, so it opens without a Gatekeeper warning.
 
 1. Open the DMG and drag **Yoke** to Applications.
-2. Right‑click Yoke in Applications and choose **Open**, then **Open** again in the dialog. On macOS 15 and later you can instead launch it once, then go to **System Settings → Privacy & Security**, scroll to "Yoke was blocked", and click **Open Anyway**.
-3. On first launch macOS asks **"Allow Yoke to find devices on local networks?"** Click **Allow**. Yoke finds OX units with mDNS and talks to them over the LAN; without this it sees nothing.
+2. On first launch macOS asks **"Allow Yoke to find devices on local networks?"** Click **Allow**. Yoke finds OX units with mDNS and talks to them over the LAN; without this it sees nothing.
+
+Builds downloaded before September 21, 2026 were unsigned. Installing a signed build over one of those keeps your settings, and macOS asks for the network permission once more.
 
 ## Beta terms
 
