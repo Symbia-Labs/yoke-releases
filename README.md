@@ -21,7 +21,9 @@ Beta builds are not yet signed or notarized, so macOS refuses the first launch.
 
 ## Beta terms
 
-Beta builds run as the full Studio tier and stop working on the date shown under the gear at the top right → **License**, when a newer build will be out. Please don't pass the DMG on; point people at this page or at help@symbia-labs.com.
+Everything in Yoke is free until the end of the beta, the date shown under the gear at the top right → **License** (December 31, 2026). After that Yoke keeps working, and License has a link to buy a key: $9.99, activating up to three Macs. Nothing is locked either way. Please point people at this page rather than passing the DMG on, so they get the newest build.
+
+Builds before 1.0.0-rc.3 stop working on their date; install a newer one from this page.
 
 ## Reporting a problem
 
@@ -29,7 +31,7 @@ Click the ⚠ at the top right of the app, describe what happened, and Yoke writ
 
 ## What it never does
 
-Yoke writes only the controls you touch, and every write is read back from the unit. It never changes speaker impedance, never sends a preset save, delete, import or export, and never touches firmware, passwords or the unit's reset paths. Loading a preset or changing RIG/bank discards unsaved edits on the OX, exactly like turning the physical knob; the app says so before it runs.
+Yoke writes only the controls you touch, and every write is read back from the unit. It never changes speaker impedance, saves a preset only when you press Save (over a user preset, or as a new one), never deletes, moves, imports or exports presets, and never touches firmware, passwords or the unit's reset paths. Loading a preset or changing RIG/bank discards unsaved edits on the OX, exactly like turning the physical knob; the app says so before it runs.
 
 ---
 
