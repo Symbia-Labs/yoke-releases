@@ -8,7 +8,7 @@ This repository holds the downloads and release notes. Yoke's source is not publ
 
 ## Requirements
 
-- macOS 13 or later, Apple Silicon (Intel builds later).
+- macOS 13 or later, on Apple Silicon or Intel (one universal app, from 1.0.0-rc.4).
 - An OX Amp Top Box on firmware 1.2.0, on the same network as the Mac or reachable by address.
 
 ## Installing
